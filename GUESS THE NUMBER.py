@@ -3,7 +3,7 @@ from random import randint
 from IPython.display import clear_output
 
 guessed = False
-number = randint(0, 100)
+number = randint(0, 50)
 guesses = 0
 
 while not guessed:
