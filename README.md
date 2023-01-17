@@ -1,2 +1,2 @@
-# Beginner-Python-MIniProjects-
+Python-Projects-
 Easy understandable python projects for beginner
