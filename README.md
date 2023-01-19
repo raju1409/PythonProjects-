@@ -1,2 +1,2 @@
 Python-Projects-
-Easy understandable python projects for beginner
+Easy understandable python projects during Learning process
