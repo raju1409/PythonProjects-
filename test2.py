@@ -1,6 +1,7 @@
 import cv2
 import mediapipe as mp
 import time
+import random
 
 cap = cv2.VideoCapture(0)
 mpHands = mp.solutions.hands
@@ -27,3 +28,4 @@ while True:
 
     cv2.imshow("Image", img)
     cv2.waitKey(1)
+    
