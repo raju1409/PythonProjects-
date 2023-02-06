@@ -21,3 +21,5 @@ while not guessed:
         print('The number is lower than what you guessed.')
     elif int(ans) < number:
         print('The number is greater than what you guessed.')
+        
+print("END")
